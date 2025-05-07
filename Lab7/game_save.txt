@@ -1,0 +1,4 @@
+3
+Player Hero 100 1
+Player Mage 80 2
+Player Warrior 120 3
